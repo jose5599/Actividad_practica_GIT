@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 contenido del archivo_main.txt
+=======
+este archivo está creado en la rama main
+>>>>>>> develop
